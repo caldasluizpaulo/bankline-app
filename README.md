@@ -1,6 +1,7 @@
 # BanklineApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+Seja bem vindo ao repositório da Aplicação FrontEnd construido com o framework: Angular construido na SANTANDER DEV WEEK.
+
 
 ## Development server
 
